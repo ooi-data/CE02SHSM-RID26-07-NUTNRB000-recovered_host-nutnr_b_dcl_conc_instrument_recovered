@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHSM-RID26-07-NUTNRB000-recovered_host-nutnr_b_dcl_conc_instrument_recovered
-last_request: '2022-01-21T02:15:56.158541Z'
+last_request: '2022-01-21T18:23:46.294802Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSM-RID26-07-NUTNRB000-recovered_host-nutnr_b_dcl_conc_instrument_recovered/main/history/response.json
-status: failed
+status: pending
